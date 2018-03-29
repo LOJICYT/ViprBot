@@ -21,7 +21,7 @@ const client = new Discord.Client();
 
 
 
-client.login('MzgyNTg4NTA3MTE1MjI1MDk5.DPX44w.9NSxUG4YCaIgjMO4OQr1YT2G9i8'); 
+client.login('MzgyNTg4NTA3MTE1MjI1MDk5.DZ47tQ.YokN5QK45ULeRLBL2YrgCIFPJWA'); 
 
 
 
